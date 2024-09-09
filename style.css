@@ -150,9 +150,6 @@ footer{
         width: 80vw;
         grid-template-rows: 5vw 80vh auto; 
     }
-    header h3, p{
-        font-size: 1rem;
-    }
     h1, h2, h3{
         font-size: 1rem;
     }
