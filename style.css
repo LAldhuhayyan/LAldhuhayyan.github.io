@@ -148,7 +148,7 @@ footer{
     }
     .container{
         width: 80vw;
-        grid-template-rows: 7vw 80vh auto; 
+        grid-template-rows: 3vw 80vh auto; 
     }
     header{
         font-size: 1.5rem;
