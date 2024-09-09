@@ -180,4 +180,7 @@ header p{
       align-items:flex-start;
       gap: 5vw;
     }
+    #themeswitch{
+      font-size:5vw;
+  }
   }
