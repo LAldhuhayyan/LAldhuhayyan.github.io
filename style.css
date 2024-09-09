@@ -151,10 +151,10 @@ footer{
         grid-template-rows: 3vw 80vh auto; 
     }
     header{
-        font-size: 1.5rem;
+        font-size: 2rem;
     }
     header p{
-        font-size: 0.5rem;
+        font-size: 1rem;
     }
     h1, h2, h3{
         font-size: 1rem;
@@ -171,7 +171,7 @@ footer{
     }
     .contact{
       position: absolute;
-      margin:5vw 0;
+      margin:7vw 0;
       width:100%;
       height:fit-content;
       display: flex;
