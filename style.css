@@ -148,10 +148,10 @@ footer{
     }
     .container{
         width: 80vw;
-        grid-template-rows: 5vw 80vh auto; 
+        grid-template-rows: 7vw 80vh auto; 
     }
     header{
-        font-size: 1.2rem;
+        font-size: 1.5rem;
     }
     header p{
         font-size: 0.5rem;
