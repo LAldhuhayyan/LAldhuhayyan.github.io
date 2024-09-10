@@ -217,7 +217,7 @@ a:hover {
     margin: auto 0;
     grid-template-columns: repeat(1, minmax(0, 1fr));
     white-space:nowrap;
-    gap: 5vw;
+    gap: 2rem;
   }  
   
   h3 img {
