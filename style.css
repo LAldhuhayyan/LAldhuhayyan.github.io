@@ -58,6 +58,7 @@ main {
   color: var(--text-color);
   padding: 2vw;
   padding-top: 3vw;
+  overflow-y: hidden;
 }
 
 footer {
@@ -99,6 +100,8 @@ footer {
   margin-bottom: 2vw;
   width: 100%;
   height: fit-content;
+  max-height:40vw;
+  overflow-y: hidden;
   display: grid;
   grid-template-columns: repeat(3, minmax(0, 1fr));
   gap: 5vw;
@@ -206,7 +209,7 @@ a:hover {
   }
 
   .logo {
-    transform: translate(-50%, 350%);
+    transform: translate(-50%, 300%);
   }
 
   .logo img {
@@ -214,10 +217,10 @@ a:hover {
   }
 
   .contact {
+    max-height: 80vw;
     margin: auto 0;
     grid-template-columns: repeat(1, minmax(0, 1fr));
-    white-space:nowrap;
-    gap: 2rem;
+    gap: 20px;
   }  
   
   h3 img {
